@@ -114,4 +114,20 @@ Employer can pay for seven days by making 2 cuts in a way that he has 3 rods of 
 
 7th Day: Gives cut of 1 unit.
 
-### 5.
+### 5. 3 Priests and 3 devils Puzzle
+
+There are 3 devils and 3 Priests.They all have to cross a river in a boat.Boat can only carry two people at a time.As long as there are equal number of devils and priests,then devils will not eat Priest.If the number of devils are greater than the number of priests on the same side of the river then devils will eat the priests.So how can we make all the 6 peoples to arrive to the other side safely?
+
+**Solution**
+dddppp  
+See Right side
+1.ddppp dp d
+2.dppp dd dd
+3.ddp pp dp
+4.ddd pp ppp
+
+### 6. Find the fastest 3 horses
+
+There are 25 horses among which you need to find out the fastest 3 horses. You can conduct race among at most 5 to find out their relative speed. At no point you can find out the actual speed of the horse in a race. Find out how many races are required to get the top 3 horses.
+
+**solution:** 7.
