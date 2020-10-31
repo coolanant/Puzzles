@@ -131,3 +131,10 @@ See Right side
 There are 25 horses among which you need to find out the fastest 3 horses. You can conduct race among at most 5 to find out their relative speed. At no point you can find out the actual speed of the horse in a race. Find out how many races are required to get the top 3 horses.
 
 **solution:** 7.
+
+### 7. Monty Hall problem
+
+Suppose you’re on a game show, and you’re given the choice of three doors: Behind one door is a car; behind the others, goats. You pick a door, say No. 1, and the host, who knows what’s behind the doors, opens another door, say No. 3, which has a goat. He then says to you, “Do you want to pick door No. 2?” Is it to your advantage to switch your choice?
+
+**Solution:**
+If you switch, you get the car with probability 2/3. So switching is always a good choice.
